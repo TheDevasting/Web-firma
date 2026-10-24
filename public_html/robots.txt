@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Descomenta cuando tengas el sitemap.xml:
+# Sitemap: https://somoslegalmente.com/sitemap.xml
